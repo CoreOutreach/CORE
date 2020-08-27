@@ -1,7 +1,9 @@
 # Welcome to CORE
 
 Computing Oriented Representation & Engagement
+
 Founded on October 1, 2019. 
+
 Extension of [STARS COMPUTING CORPS](https://www.starscomputingcorps.org)
 
 |  |  |
